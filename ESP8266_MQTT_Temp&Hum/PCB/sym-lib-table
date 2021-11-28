@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ESP8266MQTT)(type Legacy)(uri C:/Users/przem/Documents/KiCAD/Projekty/ESP8266_MQTT_Temp&Hum/PCB/PCB-cache.lib)(options "")(descr ""))
+  (lib (name PCB-rescue)(type Legacy)(uri ${KIPRJMOD}/PCB-rescue.lib)(options "")(descr ""))
+)
